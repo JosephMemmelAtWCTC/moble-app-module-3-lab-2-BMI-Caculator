@@ -35,7 +35,7 @@
                 PlaceholderColor="Green"/>
 
             <Label
-                Text="And Inches"
+                Text="And inches"
                 SemanticProperties.HeadingLevel="Level3" />
 
             <Editor x:Name="Inp_height_inches"
